@@ -1,0 +1,8 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.DS_Store
+dist/
+.env
+.env.*
+wechat.env
